@@ -3,7 +3,6 @@ import 'package:carib/Screens/order_history.dart';
 import 'package:carib/Screens/order_tracking.dart';
 import 'package:carib/Screens/payment_details.dart';
 import 'package:carib/Screens/shipping_address.dart';
-import 'package:country_list_pick/country_list_pick.dart';
 import 'package:flutter/material.dart';
 
 class Settings extends StatefulWidget {

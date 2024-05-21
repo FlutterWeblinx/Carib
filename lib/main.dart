@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Carib Auto Parts',
       theme: ThemeData(
+        useMaterial3: false,
         appBarTheme: const AppBarTheme(
           centerTitle: true,
           iconTheme: IconThemeData(
